@@ -1,1 +1,2 @@
 # Brain-tumor
+It's a Deep learning and machine learning In this project we are Classify Brain tumor Diseases classification image classifier using CNN. A brain tumor is a collection, or mass, of abnormal cells in your brain. Your skull, which encloses your brain, is very rigid. Any growth inside such a restricted space can cause problems .In this project We are classification 4 brain tumor diseases
